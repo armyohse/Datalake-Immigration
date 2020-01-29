@@ -1,4 +1,4 @@
-# Datalake-Immigration
+## Datalake-Immigration
 Data lake project for Immigration data on AWS (NoSQL, Spark, Redshift)
 
 # Introduction
@@ -7,9 +7,8 @@ Data modeling for Immigration data :
 
 Using the immigration, demographic, and aiport data, this project will focus on understanding the trend of immigrant to United States by region or cities.  It will implement both data warehouse / data lake to AWS Redshift in real-time database.  It will contain a star schema optimized for queries on depends on business requirements.    
 
-## Datasets
+# Datasets
 
-## Describe and Gather Data
 * I94 Immigration Data: This data comes from the US National Tourism and Trade Office.
 
 * World Temperature Data: This dataset came from Kaggle. You can read more about it here.
@@ -20,7 +19,7 @@ Using the immigration, demographic, and aiport data, this project will focus on 
 
 Dataset link : https://catalog.data.gov/dataset?tags=i94
 
-## The project follows the follow steps:
+# The project follows the follow steps:
 
 Step 1: Scope the Project and Gather Data
 Step 2: Explore and Assess the Data
